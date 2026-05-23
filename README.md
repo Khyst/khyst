@@ -1,12 +1,8 @@
 # Hi, there 🙋 
 ---
 I am yonghun kim interested in Physical Ai, and robotics system.
+( intrested in : **Embodied AI**, **TAMP (Task and Motion Planning)**, **Safe Embodied AI**, **Hardware-agnostic Robotic Platform** )
 
-## 🧠 What I Do & What I Love
-
-### 🤖 Core Technical Interests
-*   **Embodied AI**, **TAMP (Task and Motion Planning)**, **Safe Embodied AI**, **Hardware-agnostic Robotic Platform** 
----
 
 ## 🛠️ My Tech Toolbox
 
