@@ -15,9 +15,9 @@
 
 ## 📈 GitHub Live Stats
 
-| **GitHub Activity** | **Most Used Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Khyst&show_icons=true&theme=tokyonight&count_private=true" alt="Yonghun's GitHub Stats" height="165" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyst&layout=compact&theme=tokyonight" alt="Top Langs" height="165" /> |
+![khy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyst&show_icons=true&theme=radical)
+
+<br>
 
 <p align="center">
   <!-- 오픈소스 기여 연속성(Streak) 트래커 -->
