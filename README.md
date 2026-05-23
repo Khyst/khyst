@@ -1,14 +1,5 @@
 # Hi, there! 🙋‍♂️
-
-## 🧠 Research Interests & Vision
-
 > **"I am dedicated to engineering robust, end-to-end perception-to-action pipelines and building scalable, hardware-agnostic robotic platforms."**
-
-## 📈 GitHub Live Stats
-<p align="center">
-  <!-- 오픈소스 기여 연속성(Streak) 트래커 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khyst&theme=tokyonight" alt="Yonghun's Streak" />
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -39,8 +30,8 @@
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
 </p>
 
-
+## 📈 GitHub Live Stats
 <p align="center">
-  <!-- 부드럽게 물결치는 하단 마감 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20Coding%20%26%20Keep%20Moving&fontSize=22" alt="Footer" />
+  <!-- 오픈소스 기여 연속성(Streak) 트래커 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khyst&theme=tokyonight" alt="Yonghun's Streak" />
 </p>
