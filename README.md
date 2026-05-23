@@ -15,7 +15,7 @@
 
 ## 📈 GitHub Live Stats
 
-![khy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyst&show_icons=true&theme=radical)
+![khy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyst4&show_icons=true&theme=radical)
 
 <br>
 
