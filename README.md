@@ -1,14 +1,5 @@
 # Hi, there! 🙋‍♂️
 
-<!-- 상단 타이핑 애니메이션 배너 (Fancy 요소 추가) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Yonghun%20Kim&fontSize=40&animation=fadeIn&fontAlignY=40" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=76B900&center=true&vCenter=true&width=500&lines=Robotics+Software+Engineer;Bridging+AI+%26+Physical+World;ROS2+%2F+MoveIt2+%2F+Embodied+AI" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧠 Research Interests & Vision
