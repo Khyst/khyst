@@ -15,9 +15,6 @@
 
 ## 📈 GitHub Live Stats
 
-![khy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyst4&show_icons=true&theme=radical)
-
-<br>
 
 <p align="center">
   <!-- 오픈소스 기여 연속성(Streak) 트래커 -->
