@@ -1,13 +1,6 @@
 # Hi, there 🙋 
-### ⚡ Robotics Software Engineer bridging AI and Physical Worlds
-
-<p align="left">
-  <!-- 실시간 히트맵 및 스탯 카드 배정  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Khyst&show_icons=true&theme=tokyonight&align=center" alt="Yonghun's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyst&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
-</p>
-
 ---
+I am yonghun kim interested in Physical Ai, and robotics system.
 
 ## 🧠 What I Do & What I Love
 
@@ -42,14 +35,3 @@
 </p>
 
 ---
-
-## 📈 GitHub Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khyst&theme=tokyonight" alt="Yonghun's Streak" / >
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20Coding%20&%20Keep%20Moving&fontSize=22" alt="Footer" />
-</p>
