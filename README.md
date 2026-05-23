@@ -1,16 +1,9 @@
 # Hi, there! 🙋‍♂️
 
----
-
 ## 🧠 Research Interests & Vision
 
 > **"I am dedicated to engineering robust, end-to-end perception-to-action pipelines and building scalable, hardware-agnostic robotic platforms."**
-
-*   🤖 **Embodied AI:** Vision-Language-Action (VLA) Models
-*   ⚙️ **TAMP:** Task and Motion Planning (High-level sequencing to low-level execution)
-*   🛡️ **Safe Embodied AI:** Explainable and reliable neuro-symbolic control loops
-*   🧱 **Infrastructure:** Hardware-agnostic robotic package architecture design
-
+<br>
 ---
 
 ## 📈 GitHub Live Stats
@@ -23,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
 ### 🤖 Frameworks
 <p align="left">
